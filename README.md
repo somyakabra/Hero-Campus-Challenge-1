@@ -1,5 +1,7 @@
 # Hero-Campus-Challenge-1
 <img width="566" alt="Screenshot 2024-02-04 200912" src="https://github.com/somyakabra/Hero-Campus-Challenge-1/assets/97023859/3a7345b0-fb85-4b3f-9e99-6046b177aa35">
+
+
 Problem Statement:  
 AI based connected solution for Vehicle & Driver Profiling 
 Most of our 2 wheelers have TCUs (Telemetry Control Units) on them to collect 
